@@ -1,0 +1,28 @@
+.one{
+    display: inline;
+    margin-right: 50px;
+}
+
+.container{
+     margin-top: 120px;
+    /* margin-left: 500px; */
+    height: 500px;
+    background-image: url('src/assets/speechRepo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#button1{
+    width: 450px;
+}
+#button2{
+    width: 450px;
+}
+
+input{
+    float: right;
+    margin-right: 150px;
+    /* margin-top: 30px; */
+    height:300px;
+    width:400px;
+}
